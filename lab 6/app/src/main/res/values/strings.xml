@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application 6</string>
+    <string name="hint_enter_question">Введите вопрос</string>
+    <string name="hint_enter_hint">Введите подсказку</string>
+    <string name="hint_enter_answer">Введите ответ</string>
+    <string name="hint_enter_translation">Введите перевод</string>
+    <string name="text_save">Сохранить</string>
+    <string name="text_delete_confirmation">Вы действительно хотите удалить карточку?</string>
+    <string name="text_confirm">ДА</string>
+    <string name="text_cancel">НЕТ</string>
+    <string name="error_fill_all_fields">Пожалуйста, заполните все поля</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="add_card">Добавить карточку</string> <!-- Добавлена строка -->
+    <string name="delete_card">Удалить карточку</string> <!-- Добавлена строка -->
+</resources>
